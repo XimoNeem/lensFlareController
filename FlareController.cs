@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
+//Add this to your LensFlare object
 public class FlareController : MonoBehaviour
 {
     private LensFlare flare;
